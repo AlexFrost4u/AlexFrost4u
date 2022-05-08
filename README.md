@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Iskandar Umidjonov
+### Hi there 👋 
+### My name is Iskandar Umidjonov
 - 🔭 I’m currently working on Jetpack Compose to develop beautiful apps 
 - 🌱 I’m currently learning KMM for multiplatform development
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iskandar_umidjonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/)](https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/) 
