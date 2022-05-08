@@ -1,5 +1,5 @@
 🌱 I’m currently learning intergration of Jetpack Compose with modern tech for better app
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Iskandar-Umidjonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/)]
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Iskandar-Umidjonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/)](https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/) 
 <!--
 **AlexFrost4u/AlexFrost4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
