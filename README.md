@@ -1,6 +1,8 @@
+### Hi there 👋 Iskandar Umidjonov
 - 🔭 I’m currently working on Jetpack Compose to develop beautiful apps 
 - 🌱 I’m currently learning KMM for multiplatform development
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iskandar_umidjonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/)](https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/) 
+[![Gmail Badge](https://img.shields.io/badge/-alexfrost4u@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexfrost4u@gmail.com)](mailto:alexfrost4u@gmail.com)
 <!--
 **AlexFrost4u/AlexFrost4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
