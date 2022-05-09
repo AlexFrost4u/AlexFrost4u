@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### My name is Iskandar Umidjonov
 - 🔭 Currently working on Jetpack Compose to develop beautiful apps 
-- 🌱 Want to learn KMM for multiplatform development
+- 🌱 Interested in KMM for multiplatform development
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iskandar_umidjonov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/)](https://www.linkedin.com/in/iskandar-umidjonov-aa4343209/) 
 [![Gmail Badge](https://img.shields.io/badge/-alexfrost4u@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexfrost4u@gmail.com)](mailto:alexfrost4u@gmail.com)
 <!--
